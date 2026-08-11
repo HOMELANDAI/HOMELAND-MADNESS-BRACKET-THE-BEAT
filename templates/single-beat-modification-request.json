@@ -1,0 +1,18 @@
+{
+  "tournament_slug": "90s-east-coast",
+  "action": "replace",
+  "target_beat_id": "existing-beat-id",
+  "replacement": {
+    "region": "East Coast",
+    "seed": 12,
+    "beat_title": "Replacement Beat Title",
+    "attached_song_title": "Replacement Song Title",
+    "artist": "Artist Name",
+    "producer": "Producer Name",
+    "release_year": 1996,
+    "source_url": "https://example.com/source",
+    "preview_url": "https://example.com/preview",
+    "rights_status": "needs_review"
+  },
+  "reason": "Metadata correction or committee replacement"
+}
